@@ -1,0 +1,9 @@
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Debug\MultiPoc.Service.dll
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Debug\MultiPoc.Service.pdb
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Debug\RabbitMQ.Client.dll
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Debug\RabbitMQ.Client.xml
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\obj\Debug\MultiPoc.Service.csprojResolveAssemblyReference.cache
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\obj\Debug\MultiPoc.Service.dll
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\obj\Debug\MultiPoc.Service.pdb

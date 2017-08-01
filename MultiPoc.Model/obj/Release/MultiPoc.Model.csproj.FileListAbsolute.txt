@@ -1,0 +1,5 @@
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\bin\Release\MultiPoc.Model.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\bin\Release\MultiPoc.Model.pdb
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\obj\Release\MultiPoc.Model.csprojResolveAssemblyReference.cache
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\obj\Release\MultiPoc.Model.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\obj\Release\MultiPoc.Model.pdb

@@ -1,0 +1,8 @@
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Release\MultiPoc.Service.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Release\MultiPoc.Service.pdb
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Release\RabbitMQ.Client.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\bin\Release\RabbitMQ.Client.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\obj\Release\MultiPoc.Service.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Service\obj\Release\MultiPoc.Service.pdb

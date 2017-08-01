@@ -1,0 +1,4 @@
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\bin\Debug\MultiPoc.Model.dll
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\bin\Debug\MultiPoc.Model.pdb
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\obj\Debug\MultiPoc.Model.dll
+C:\Users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Model\obj\Debug\MultiPoc.Model.pdb

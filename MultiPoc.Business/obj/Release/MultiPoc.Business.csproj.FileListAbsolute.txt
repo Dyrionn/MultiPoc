@@ -1,0 +1,15 @@
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\MultiPoc.Business.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\MultiPoc.Business.pdb
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\MultiPoc.Model.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\MultiPoc.Service.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\Newtonsoft.Json.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\RabbitMQ.Client.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\MultiPoc.Model.pdb
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\MultiPoc.Service.pdb
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\Newtonsoft.Json.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\RabbitMQ.Client.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\obj\Release\MultiPoc.Business.csprojResolveAssemblyReference.cache
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\obj\Release\MultiPoc.Business.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.Business\obj\Release\MultiPoc.Business.pdb

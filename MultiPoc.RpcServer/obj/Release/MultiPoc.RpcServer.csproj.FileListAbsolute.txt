@@ -1,0 +1,14 @@
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\MultiPoc.RpcServer.exe.config
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\MultiPoc.RpcServer.exe
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\MultiPoc.RpcServer.pdb
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\MultiPoc.Model.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\Newtonsoft.Json.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\RabbitMQ.Client.dll
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\MultiPoc.Model.pdb
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\Newtonsoft.Json.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\bin\Release\RabbitMQ.Client.xml
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\obj\Release\MultiPoc.RpcServer.csprojResolveAssemblyReference.cache
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\obj\Release\MultiPoc.RpcServer.exe
+c:\users\apianor\documents\visual studio 2017\Projects\MultiPoc\MultiPoc.RpcServer\obj\Release\MultiPoc.RpcServer.pdb
